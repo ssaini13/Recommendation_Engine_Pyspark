@@ -1,4 +1,4 @@
-# Product Personalization Engine (Recommendation-System)
+# Recommendation-System Engine
 
 ## Data Collection
 Data for this project was collected from open source amazon review dataset. The data deals with sports and outdoor equipment. The dataset contains 435924 rows and 12 columns. Originally, the dataset was contained as a .json file.
